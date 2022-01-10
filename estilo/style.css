@@ -91,6 +91,9 @@ main h2{
     background-image: linear-gradient(to right,#BDE4CE,white 50%);
     font-weight: normal;
 }
+img{
+   width: 100%
+}
 main p{
     margin: 15px 0;
     text-align: justify;
@@ -114,7 +117,7 @@ main a:hover{
     color: var(--cor4);
 }
 img.pequena{
-    max-width: 350px;
+    max-width: 300px;
     display: block;
     margin: auto;
     line-height: 2em;
