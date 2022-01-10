@@ -82,6 +82,9 @@ main{
     margin-bottom: 20px;
     margin-top: 20px;
 }
+main img{
+    width: 100%;
+}
 main h2,h1#titulo{
     font-family: var(--fonte-android);
     color: darkgreen;
